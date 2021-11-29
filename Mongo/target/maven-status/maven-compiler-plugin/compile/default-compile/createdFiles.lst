@@ -1,0 +1,11 @@
+co\usa\ciclo4\ciclo4\Repository\crud\UserCrudRepository.class
+co\usa\ciclo4\ciclo4\Ciclo3Application.class
+co\usa\ciclo4\ciclo4\Service\cloneService.class
+co\usa\ciclo4\ciclo4\Repository\crud\cloneRepository.class
+co\usa\ciclo4\ciclo4\Repository\crud\cloneCrudRepository.class
+co\usa\ciclo4\ciclo4\Repository\crud\UserRepository.class
+co\usa\ciclo4\ciclo4\Service\UserService.class
+co\usa\ciclo4\ciclo4\Web\cloneController.class
+co\usa\ciclo4\ciclo4\Modelo\Clone.class
+co\usa\ciclo4\ciclo4\Modelo\User.class
+co\usa\ciclo4\ciclo4\Web\UserController.class
